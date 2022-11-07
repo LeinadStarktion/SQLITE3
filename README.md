@@ -1,4 +1,7 @@
 1.-update: (actualizar algún dato especìfico en una tabla)
+
+
+![1 UPDATE](https://user-images.githubusercontent.com/107563009/200398825-ede64d3d-0a87-420b-8b13-5b21a0edf42f.PNG)
  
  
 	sqlite> update users set lastname = ‘Starktion’ where userid =1;

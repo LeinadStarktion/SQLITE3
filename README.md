@@ -150,7 +150,18 @@ sqlite> .tables
 PEOPLE8   dates     def7      def7II    dptos5    primary4  users
  
  
-11.-backup (Hacer una copia de seguridad de la base de datos), restore(restaura la base de datos)
+11.-backup (Hacer una copia de seguridad de la base de datos), 
  
-sqlite>
-sqlite>
+![image](https://user-images.githubusercontent.com/107563009/200433505-8c41b4ab-fa2d-4af9-ae90-01ac8c253670.png)
+
+![image](https://user-images.githubusercontent.com/107563009/200435174-7e687f1b-2839-42a8-8b42-2ed6effda305.png)
+
+
+
+
+
+restore(restaura la base de datos)
+
+
+![image](https://user-images.githubusercontent.com/107563009/200436043-1dfbfda1-7d74-497f-b7e5-132b37a9cd2c.png)
+
